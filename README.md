@@ -1,6 +1,6 @@
 # iotlab
 
-[issue](../../issues)
+[issue](../../releases)
 
 1. A “continue” action can be configured on the following security profiles in the Next Generation firewall:Select one:
 	**d. URL Filtering and File Blocking**
