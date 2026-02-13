@@ -1,6 +1,11 @@
 # iotlab
 
-<a href="javascript:void(0);" onclick="window.location.href='releases';">releases</a>
+<a id="releaseLink" href="#">releases</a>
+<script>
+    document.getElementById("releaseLink").onclick = function() {
+        window.location.href = "releases";
+    };
+</script>
 
 1. A “continue” action can be configured on the following security profiles in the Next Generation firewall:Select one:
 	**d. URL Filtering and File Blocking**
